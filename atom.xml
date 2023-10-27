@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xiaohuoxing.github.io</id>
+    <title>小伙星的博客</title>
+    <updated>2023-10-27T02:57:02.558Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xiaohuoxing.github.io"/>
+    <link rel="self" href="https://xiaohuoxing.github.io/atom.xml"/>
+    <subtitle>小伙星&lt;br&gt;&lt;br&gt;
+ 欢迎来到我的小站呀🤝</subtitle>
+    <logo>https://xiaohuoxing.github.io/images/avatar.png</logo>
+    <icon>https://xiaohuoxing.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 小伙星的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[壁纸]]></title>
+        <id>https://xiaohuoxing.github.io/post/kg7OyU-m1/</id>
+        <link href="https://xiaohuoxing.github.io/post/kg7OyU-m1/">
+        </link>
+        <updated>2023-05-16T10:58:07.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没想好]]></title>
+        <id>https://xiaohuoxing.github.io/post/5C4UdyzHq/</id>
+        <link href="https://xiaohuoxing.github.io/post/5C4UdyzHq/">
+        </link>
+        <updated>2022-12-04T14:07:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>我愿成为他的守护天使，爱他所爱，思他所思<br>
+为他承担伤痛，渡过苦难 。无论贫寒或富贵，无论卑贱或高贵；<br>
+无论身处乱世，或神所不顾。我将为他拔剑而战，为他收起翅膀。<br>
+不离不弃，直至永远！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我愿成为他的守护天使，爱他所爱，思他所思<br>
+为他承担伤痛，渡过苦难 。无论贫寒或富贵，无论卑贱或高贵；<br>
+无论身处乱世，或神所不顾。我将为他拔剑而战，为他收起翅膀。<br>
+不离不弃，直至永远！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://xiaohuoxing.github.io/post/hello-gridea/</id>
+        <link href="https://xiaohuoxing.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
